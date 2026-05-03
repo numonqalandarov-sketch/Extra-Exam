@@ -299,6 +299,9 @@
   .left-30 {
     left: calc(var(--spacing) * 30);
   }
+  .left-1\/2 {
+    left: calc(1 / 2 * 100%);
+  }
   .-z-10 {
     z-index: calc(10 * -1);
   }
