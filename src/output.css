@@ -466,6 +466,9 @@
   .max-w-\[1\] {
     max-width: 1;
   }
+  .max-w-\[12--px\] {
+    max-width: 12--px;
+  }
   .max-w-\[400px\] {
     max-width: 400px;
   }
@@ -661,6 +664,9 @@
   }
   .bg-\[F6F6F6\] {
     background-color: F6F6F6;
+  }
+  .bg-black {
+    background-color: var(--color-black);
   }
   .bg-black\/20 {
     background-color: color-mix(in srgb, #000 20%, transparent);
